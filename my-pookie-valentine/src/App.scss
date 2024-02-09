@@ -22,6 +22,11 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  .helgaImg {
+    height: 800px;
+    border: solid 10px purple;
+    border-style: ridge;
+  }
   h2 {
     color: #f84e92;
   }
