@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/Helga-s-website/static/css/main.f855e6bc.css",
-    "main.js": "/Helga-s-website/static/js/main.7c8abb88.js",
-    "static/js/592.cb21bc40.chunk.js": "/Helga-s-website/static/js/592.cb21bc40.chunk.js",
-    "static/media/logo.svg": "/Helga-s-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/Helga-s-website/static/css/main.15e5f46b.css",
+    "main.js": "/Helga-s-website/static/js/main.d535bf40.js",
+    "static/media/love-bear.gif": "/Helga-s-website/static/media/love-bear.ea485e25c0fc799b0bab.gif",
+    "static/media/helga.jpeg": "/Helga-s-website/static/media/helga.e38bc2070bb264db28f9.jpeg",
     "index.html": "/Helga-s-website/index.html",
-    "main.f855e6bc.css.map": "/Helga-s-website/static/css/main.f855e6bc.css.map",
-    "main.7c8abb88.js.map": "/Helga-s-website/static/js/main.7c8abb88.js.map",
-    "592.cb21bc40.chunk.js.map": "/Helga-s-website/static/js/592.cb21bc40.chunk.js.map"
+    "main.15e5f46b.css.map": "/Helga-s-website/static/css/main.15e5f46b.css.map",
+    "main.d535bf40.js.map": "/Helga-s-website/static/js/main.d535bf40.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.7c8abb88.js"
+    "static/css/main.15e5f46b.css",
+    "static/js/main.d535bf40.js"
   ]
 }
